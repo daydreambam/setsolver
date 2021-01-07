@@ -3,7 +3,7 @@
 '''
 This program will launch a browser, go to the set solver game
 and automatically solve it for you. Satisfying to write, deeply
-unsatisfying to run. 
+unsatisfying to run. ulr: https://www.setgame.com/set/puzzle
 '''
 
 import bs4, sys, requests, os, time
